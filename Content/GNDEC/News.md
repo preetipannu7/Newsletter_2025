@@ -55,7 +55,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKG
     </p>
 
 
-# <h1 style="text-align: center;"> ** GNDEC Annual Alumni Meet 2024: Creating Unforgettable Memories** </h1> 
+# <h1 style="text-align: center;"> ** GNDEC Annual Alumni Meet 2024: Creating Unforgettable Memories ** </h1> 
 
 ####### |🕒 Published on November 20,2023
 
@@ -68,7 +68,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted
 </p>
 
 
-# <h1 style="text-align: center;"> ** Industry-Institute Meet Organized at GNDEC Ludhiana** </h1> 
+# <h1 style="text-align: center;"> ** Industry-Institute Meet Organized at GNDEC Ludhiana ** </h1> 
 
 ####### |🕒 Published on November 18,2023
 

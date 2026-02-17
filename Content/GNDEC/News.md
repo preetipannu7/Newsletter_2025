@@ -41,22 +41,6 @@ Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4or.jpeg)
 <p align=justify>
 Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKGPTU Inter-College Cycling Competition for men and women at the PAU Cycling Velodrome on 1 october 2024. This prestigious event witnessed participation from top cyclists representing seven colleges affiliated with I. K. Gujral Punjab Technical University(IKGPTU), Kapurthala showcasing their talent, endurance, and competitive spirit. The competition featured multiple races, including sprint, time trial, individual persuit team spirits and scratch attracting enthusiastic participants from across the region. Both men's and women's categories saw intense competition, with athletes displaying exceptional skill and determination. The event aimed to promote cycling as a sport and encourage students to embrace fitness and an active lifestyle. The event was evaluated by Dr. Paramvir Singh from PAU who was appointed by IKGPTU. Speaking at the occasion, Principal Dr. Sehijpal Singh emphasized the importance of sports in holistic development and commended the efforts of the organizing committee. The event concluded with an award ceremony, where winners were felicitated with medals and certificates.  Dr. J.S. Grewal, President of Sports at GNDEC, along with sports coordinators Dr. Gunjan Bhardwaj and Shaminder Singh, were honored with special recognition for their outstanding contributions in the successful coordination of the event.
-Results: 
-Overall championship ( Men)
-1. Guru Nanak Dev Engineering College, Ludhiana
-2. IKGPTU, Kapurthala
-3. Chandigarh College of Engineering, Landran
-
-Best Cyclist (Men): 
-Rishav Sharma( GNDEC, Ludhiana)
-
-Overall championship ( Women)
-1. Guru Nanak Dev Engineering College, Ludhiana
-2. IKGPTU, Kapurthala
-3. Chandigarh College of Engineering, Landran
-
-Best Cyclist (Women): Jasnoor Kaur and Anu Grewal
-(GNDEC, Ludhiana)
     </p>
 
 

@@ -4,7 +4,9 @@
 
 ####### |🕒 Published on June 25, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1.jpeg) ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1or.jpeg)
+![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1.jpeg) ![HSR]
+
+(https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1or.jpeg)
 
 
 <p align=justify>
@@ -16,6 +18,7 @@ Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-
 ####### |🕒 Published on August 15, 2024
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/2.jpeg) 
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/2or.jpeg)
 
 <p align=justify>
@@ -27,6 +30,7 @@ Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nash
 ####### |🕒 Published on Sep 21, 2024
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/3.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/3or.jpeg)
 
 <p align=justify>
@@ -37,6 +41,7 @@ Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its 
 ####### |🕒 Published on October 1, 2024
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4or.jpeg)
 <p align=justify>
 Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKGPTU Inter-College Cycling Competition for men and women at the PAU Cycling Velodrome on 1 october 2024. This prestigious event witnessed participation from top cyclists representing seven colleges affiliated with I. K. Gujral Punjab Technical University(IKGPTU), Kapurthala showcasing their talent, endurance, and competitive spirit. The competition featured multiple races, including sprint, time trial, individual persuit team spirits and scratch attracting enthusiastic participants from across the region. Both men's and women's categories saw intense competition, with athletes displaying exceptional skill and determination. The event aimed to promote cycling as a sport and encourage students to embrace fitness and an active lifestyle. The event was evaluated by Dr. Paramvir Singh from PAU who was appointed by IKGPTU. Speaking at the occasion, Principal Dr. Sehijpal Singh emphasized the importance of sports in holistic development and commended the efforts of the organizing committee. The event concluded with an award ceremony, where winners were felicitated with medals and certificates.  Dr. J.S. Grewal, President of Sports at GNDEC, along with sports coordinators Dr. Gunjan Bhardwaj and Shaminder Singh, were honored with special recognition for their outstanding contributions in the successful coordination of the event.
@@ -48,6 +53,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKG
 ####### |🕒 Published on February 1, 2024
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/5.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/5or.jpeg)
 
 <p align=justify>
@@ -61,6 +67,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKG
 
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/6.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/6or.jpeg)
 
 <p align=justify>
@@ -73,6 +80,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted
 ####### |🕒 Published on November 18,2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/7.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/7or.jpeg)
 
 <p align=justify>
@@ -86,6 +94,7 @@ Prominent industrial leaders attended the meet, including Mr. Jagbir Singh Sokhi
 ####### |🕒 Published on October 28, 2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/8.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/8or.jpeg)
 
 <p align=justify>
@@ -100,6 +109,7 @@ Guru Nanak Dev Engineering College (GNDEC), Ludhiana, recently commemorated the 
 
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/9.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/9or.jpeg)
 
 <p align=justify>
@@ -113,6 +123,7 @@ Guru Nanak Dev Engineering College (GNDEC) Ludhiana team Codex comprising of Che
 ####### |🕒 Published on October 13, 2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/10.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/10or.jpeg)
 
 <p align=justify>
@@ -126,6 +137,7 @@ Guru Nanak Dev Engineering College (GNDEC) Ludhiana team Codex comprising of Che
 
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/11.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/11or.jpeg)
 
 <p align=justify>
@@ -139,6 +151,7 @@ Guru Nanak Dev Engineering College (GNDEC) and Tata Steel have signed a Memorand
 
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/12.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/12or.jpeg)
 
 <p align=justify>
@@ -152,6 +165,7 @@ The Entrepreneurship day was celebrated with full zeal and enthusiasm by IIC- Ec
 ####### |🕒 Published on May 28,2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/13.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/13or.jpeg)
 
 <p align=justify>
@@ -164,6 +178,7 @@ Guru Nanak Dev  Engineering College (GNDEC), Ludhiana, hosted a thought-provokin
 ####### |🕒 Published on April 9,2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/14.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/14or.jpeg)
 
 <p align=justify>
@@ -177,6 +192,7 @@ Guru Nanak Dev Engineering College (GNDEC) proudly announces the outstanding per
 ####### |🕒 Published on March 22, 2023
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/15.jpeg)
+
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/15or.jpeg)
 
 <p align=justify>

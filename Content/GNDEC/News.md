@@ -11,7 +11,7 @@
 Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-day workshop titled “Artificial Intelligence and Punjabi Language: Recent Trends and Challenges,” sponsored by the All India Council for Technical Education (AICTE) under the VAANI scheme. The workshop aimed to equip participants with a thorough understanding of AI and its applications in the Punjabi language. Dr. Parminder Singh and Mr. Lakhbir Singh coordinators  highlighted the workshop's goal of making AI accessible to a broader audience. The event featured a mix of lectures and interactive sessions covering AI history, machine learning, natural language processing, computer vision, ethical considerations, and the challenges of AI in Punjabi. Prominent experts, including Dr. Gurpreet Singh Lehal, Dr. Munish Jindal, Dr. Gurpreet Singh Josan, Dr. Neeraj Julka, Dr. Munish Kumar, and Dr. C.P. Kamboj conducted various the sessions. Around 50 participants from various institutions attended this workshop. Principal Dr. Sehijpal Singh while appreciating this new initiatives of coordinators, said that such programs play significant role promoting modern technologies.  The event concluded with the presence of S.Inderpal Singh, director ,NSET,Dr. Amarjit Singh Grewal, Er. Jaswant Zafar, Dr. Jasmaninder Singh Grewal, and Dr. Kiran Joyti. Principal Sehijpal Singh said "This initiative represents a significant step in promoting AI literacy and preparing individuals for transformative technology"
  </p>
  
-# GNDEC organised Anti-Ragging Day and Nasha Mukt Abhiyaan
+# <h1 style="text-align: center;"> ** GNDEC organised Anti-Ragging Day and Nasha Mukt Abhiyaan ** </h1> 
 
 ####### |🕒 Published on August 15, 2024
 

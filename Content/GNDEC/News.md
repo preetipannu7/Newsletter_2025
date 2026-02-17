@@ -1,6 +1,6 @@
  # **GNDEC in News**
 
-<h1 style="text-align: center;"> # **GNDEC conducts Workshop on AI and Punjabi Language**</h1> 
+# ** <h1 style="text-align: center;"> GNDEC conducts Workshop on AI and Punjabi Language</h1> **
 
 ####### |🕒 Published on June 25, 2024
 

@@ -8,16 +8,9 @@
 
 
 <p align=justify>
-Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-day workshop titled “Artificial Intelligence and Punjabi Language: Recent Trends and Challenges,” sponsored by the All India Council for Technical Education (AICTE) under the VAANI scheme. The workshop aimed to equip participants with a thorough understanding of AI and its applications in the Punjabi language.
-
-Dr. Parminder Singh and Mr. Lakhbir Singh coordinators  highlighted the workshop's goal of making AI accessible to a broader audience. The event featured a mix of lectures and interactive sessions covering AI history, machine learning, natural language processing, computer vision, ethical considerations, and the challenges of AI in Punjabi.
-
-Prominent experts, including Dr. Gurpreet Singh Lehal, Dr. Munish Jindal, Dr. Gurpreet Singh Josan, Dr. Neeraj Julka, Dr. Munish Kumar, and Dr. C.P. Kamboj conducted various the sessions. Around 50 participants from various institutions attended this workshop.
-
-Principal Dr. Sehijpal Singh while appreciating this new initiatives of coordinators, said that such programs play significant role promoting modern technologies.  The event concluded with the presence of S.Inderpal Singh, director ,NSET,Dr. Amarjit Singh Grewal, Er. Jaswant Zafar, Dr. Jasmaninder Singh Grewal, and Dr. Kiran Joyti. Principal Sehijpal Singh said "This initiative represents a significant step in promoting AI literacy and preparing individuals for transformative technology"
+Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-day workshop titled “Artificial Intelligence and Punjabi Language: Recent Trends and Challenges,” sponsored by the All India Council for Technical Education (AICTE) under the VAANI scheme. The workshop aimed to equip participants with a thorough understanding of AI and its applications in the Punjabi language. Dr. Parminder Singh and Mr. Lakhbir Singh coordinators  highlighted the workshop's goal of making AI accessible to a broader audience. The event featured a mix of lectures and interactive sessions covering AI history, machine learning, natural language processing, computer vision, ethical considerations, and the challenges of AI in Punjabi. Prominent experts, including Dr. Gurpreet Singh Lehal, Dr. Munish Jindal, Dr. Gurpreet Singh Josan, Dr. Neeraj Julka, Dr. Munish Kumar, and Dr. C.P. Kamboj conducted various the sessions. Around 50 participants from various institutions attended this workshop. Principal Dr. Sehijpal Singh while appreciating this new initiatives of coordinators, said that such programs play significant role promoting modern technologies.  The event concluded with the presence of S.Inderpal Singh, director ,NSET,Dr. Amarjit Singh Grewal, Er. Jaswant Zafar, Dr. Jasmaninder Singh Grewal, and Dr. Kiran Joyti. Principal Sehijpal Singh said "This initiative represents a significant step in promoting AI literacy and preparing individuals for transformative technology"
  </p>
  
-# **GNDEC in News**
 
 ## GNDEC organised Anti-Ragging Day and Nasha Mukt Abhiyaan
 
@@ -27,14 +20,9 @@ Principal Dr. Sehijpal Singh while appreciating this new initiatives of coordina
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/2or.jpeg)
 
 <p align=justify>
-Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nasha Mukt Abhiyaan today in the campus. As per direction from Ministry of Social Justice and Empowerment, Government of India more than 650 students and eleven faculty members took the pledge against drug abuse. 
-
-Dr. Arvind Dhingra, Chairman, Technical Activity Committee administered the pledge. Dr. Parminder Singh, Dean (Student Welfare) introduced the students to anti-ragging day. He said that as per UGC guidelines, anti-ragging week would be observed from August 12th to 18th, 2024. A host of activities like poster making, reel making, social media contests shall be organised. Today’s speaker Dr. Sarabjeet Singh Renuka, Professor (Journalism), PAU Ludhiana addressed the students on this occasion. In his inimitable style in very simple words  he highlighted as to how ragging was an anti-social activity. He explained in details about peer learning and how it impacts a person’s personality. He detailed about the process of “learn how to learn”, citing extensively from Gurbani, he advocated choosing peers carefully. 
-
-Dr. Sehijpal Singh, Principal, GNDEC said that college campus is a ragging free campus. He emphasized on the importance of peer learning and also informed that all helpline numbers for anti-ragging committees have been displayed at various places inside campus. S. Inderpal Singh Director, Nankana Sahib Education Trust, exhorted students to take today’s learnings seriously and apply these throughout the life.
+Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nasha Mukt Abhiyaan today in the campus. As per direction from Ministry of Social Justice and Empowerment, Government of India more than 650 students and eleven faculty members took the pledge against drug abuse. Dr. Arvind Dhingra, Chairman, Technical Activity Committee administered the pledge. Dr. Parminder Singh, Dean (Student Welfare) introduced the students to anti-ragging day. He said that as per UGC guidelines, anti-ragging week would be observed from August 12th to 18th, 2024. A host of activities like poster making, reel making, social media contests shall be organised. Today’s speaker Dr. Sarabjeet Singh Renuka, Professor (Journalism), PAU Ludhiana addressed the students on this occasion. In his inimitable style in very simple words  he highlighted as to how ragging was an anti-social activity. He explained in details about peer learning and how it impacts a person’s personality. He detailed about the process of “learn how to learn”, citing extensively from Gurbani, he advocated choosing peers carefully. Dr. Sehijpal Singh, Principal, GNDEC said that college campus is a ragging free campus. He emphasized on the importance of peer learning and also informed that all helpline numbers for anti-ragging committees have been displayed at various places inside campus. S. Inderpal Singh Director, Nankana Sahib Education Trust, exhorted students to take today’s learnings seriously and apply these throughout the life.
 </p>
 
-# **GNDEC in News**
 
 ## GNDEC Faculty Honored in Stanford University's Top 2% Scientists List
 
@@ -44,12 +32,9 @@ Dr. Sehijpal Singh, Principal, GNDEC said that college campus is a ragging free 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/3or.jpeg)
 
 <p align=justify>
-Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its esteemed faculty members have been recognized in Stanford University's prestigious list of the World's Top 2% Scientists. Dr. Raman Kumar Sehgal from the Mechanical and Production Engineering department has received this honor for the third consecutive year, while Dr. Sita Rani from Computer Science and Engineering has been acknowledged for 2024. Their relentless commitment to research and innovation has elevated the standards of their respective fields and significantly contributed to the global scientific landscape.
-
-Dr. Sehijpal Singh, Principal of GNDEC, expressed that this achievement is expected to inspire and energize students, faculty, and researchers alike, further solidifying the college’s standing as a premier institution for research and academic excellence. He noted, "Their inclusion in such a prestigious list not only highlights their personal achievements but also showcases the college's strong academic and research ethos.
+Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its esteemed faculty members have been recognized in Stanford University's prestigious list of the World's Top 2% Scientists. Dr. Raman Kumar Sehgal from the Mechanical and Production Engineering department has received this honor for the third consecutive year, while Dr. Sita Rani from Computer Science and Engineering has been acknowledged for 2024. Their relentless commitment to research and innovation has elevated the standards of their respective fields and significantly contributed to the global scientific landscape. Dr. Sehijpal Singh, Principal of GNDEC, expressed that this achievement is expected to inspire and energize students, faculty, and researchers alike, further solidifying the college’s standing as a premier institution for research and academic excellence. He noted, "Their inclusion in such a prestigious list not only highlights their personal achievements but also showcases the college's strong academic and research ethos.
 </p>
 
-# **GNDEC in News**
 
 ## IKGPTU Inter-College Cycling Competition 2024 Hosted by GNDEC
 
@@ -58,12 +43,7 @@ Dr. Sehijpal Singh, Principal of GNDEC, expressed that this achievement is expec
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4.jpeg)
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4or.jpeg)
 <p align=justify>
- Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKGPTU Inter-College Cycling Competition for men and women at the PAU Cycling Velodrome on 1 october 2024. This prestigious event witnessed participation from top cyclists representing seven colleges affiliated with I. K. Gujral Punjab Technical University(IKGPTU), Kapurthala showcasing their talent, endurance, and competitive spirit.
-
-The competition featured multiple races, including sprint, time trial, individual persuit team spirits and scratch attracting enthusiastic participants from across the region. Both men's and women's categories saw intense competition, with athletes displaying exceptional skill and determination. The event aimed to promote cycling as a sport and encourage students to embrace fitness and an active lifestyle. The event was evaluated by Dr. Paramvir Singh from PAU who was appointed by IKGPTU.
-
-Speaking at the occasion, Principal Dr. Sehijpal Singh emphasized the importance of sports in holistic development and commended the efforts of the organizing committee. The event concluded with an award ceremony, where winners were felicitated with medals and certificates.  Dr. J.S. Grewal, President of Sports at GNDEC, along with sports coordinators Dr. Gunjan Bhardwaj and Shaminder Singh, were honored with special recognition for their outstanding contributions in the successful coordination of the event.
-
+Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKGPTU Inter-College Cycling Competition for men and women at the PAU Cycling Velodrome on 1 october 2024. This prestigious event witnessed participation from top cyclists representing seven colleges affiliated with I. K. Gujral Punjab Technical University(IKGPTU), Kapurthala showcasing their talent, endurance, and competitive spirit. The competition featured multiple races, including sprint, time trial, individual persuit team spirits and scratch attracting enthusiastic participants from across the region. Both men's and women's categories saw intense competition, with athletes displaying exceptional skill and determination. The event aimed to promote cycling as a sport and encourage students to embrace fitness and an active lifestyle. The event was evaluated by Dr. Paramvir Singh from PAU who was appointed by IKGPTU. Speaking at the occasion, Principal Dr. Sehijpal Singh emphasized the importance of sports in holistic development and commended the efforts of the organizing committee. The event concluded with an award ceremony, where winners were felicitated with medals and certificates.  Dr. J.S. Grewal, President of Sports at GNDEC, along with sports coordinators Dr. Gunjan Bhardwaj and Shaminder Singh, were honored with special recognition for their outstanding contributions in the successful coordination of the event.
 Results: 
 Overall championship ( Men)
 1. Guru Nanak Dev Engineering College, Ludhiana
@@ -80,9 +60,7 @@ Overall championship ( Women)
 
 Best Cyclist (Women): Jasnoor Kaur and Anu Grewal
 (GNDEC, Ludhiana)
-    </p>
-
-  # **GNDEC in News**
+ </p>
 
 ## GNDEC Hosts Spectacular GNE'S APEX 2024: A Showcase of Innovation and Talent
 
@@ -92,26 +70,9 @@ Best Cyclist (Women): Jasnoor Kaur and Anu Grewal
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/5or.jpeg)
 
 <p align=justify>
- Guru Nanak Dev Engineering College (GNDEC), Gill Road Ludhiana, welcomed the much-anticipated inter-school extravaganza, GNE'S APEX 2024, on October 25th, 2024. Organized by the Causmic Club under the Department of Applied Science, this event paid homage to the legendary leadership and humanitarian contributions of Mr. Ratan N. Tata. The event witnessed enthusiastic participation from 30 schools, creating an atmosphere filled with excitement and camaraderie.
-
-The day began with an enlightening session by Shiksha Ratan Dr. Jaswinder Singh, President of IAPT RC-2, who mesmerized the audience with engaging demonstrations of physics concepts. His interactive approach inspired curiosity, leading to students actively engaging in a variety of hands-on activities, such as Fork Dancing, Rangoli Marvels, Pencil Shading, Digital Identity, Reel Artistry, Young Entrepreneurs, Mime, Web Wizards, Assumption Edge, G.K Quiz, Media Spotlight, The Logical Shuffle, and many more.
-
-One of the key attractions was THE APEX FAIR, where GNDEC's professional societies and clubs showcased technical games and creative activities for school participants.  
-
-Dr. Harpreet Kaur, Head of the Department of Applied Sciences, highlighted the importance of events like APEX in fostering students’ holistic growth, beyond just academics. She applauded the dedication and teamwork of the GNDEC GENCONIANS in making the event a grand success. The Guest of Honour, Mrs. Harmeet Kaur Waraich, Principal of Nankana Sahib Public School, Gill Road, lent grace and warmth to the event with her presence.
-
-Dr. Sehijpal Singh, Principal of GNDEC, marked the event as an invaluable opportunity for students to forge new friendships, engage with like-minded peers, and unearth hidden talents. Director Nankana Sahib Education Trust, S. Inderpal Singh, extended heartfelt gratitude to the APEX team and commended the efforts of Dr. Randhir Singh (Coordinator and Dr. Rajvir Kaur (Co-Coordinator, Causmic Club) for their seamless organization.
-
-The event was proudly supported by the Testing & Consultancy Cell, GNDEC Alumni, and Prabal TMT Rebars 550 as title sponsors, with Ronica India, Namdhari Steels Enterprises, Landmark Immigration, and Hoverrobotix India providing co-power support. Event partners included Coca-Cola, Verka, SK Trophy, Kabir Infra, LBPL, Hiyaav Salon, MAAC, Safe Engineering, Kangaro Group, and Asian Cranes.
-
-The top performers of the event were:
-
-___ crowned the overall winner, receiving a cash prize of Rs. 11,000
-___ secured the first runner-up position, with a cash prize of Rs. 7,000
-___ stood as the second runner-up, winning Rs. 5,000.
+Guru Nanak Dev Engineering College (GNDEC), Gill Road Ludhiana, welcomed the much-anticipated inter-school extravaganza, GNE'S APEX 2024, on October 25th, 2024. Organized by the Causmic Club under the Department of Applied Science, this event paid homage to the legendary leadership and humanitarian contributions of Mr. Ratan N. Tata. The event witnessed enthusiastic participation from 30 schools, creating an atmosphere filled with excitement and camaraderie. The day began with an enlightening session by Shiksha Ratan Dr. Jaswinder Singh, President of IAPT RC-2, who mesmerized the audience with engaging demonstrations of physics concepts. His interactive approach inspired curiosity, leading to students actively engaging in a variety of hands-on activities, such as Fork Dancing, Rangoli Marvels, Pencil Shading, Digital Identity, Reel Artistry, Young Entrepreneurs, Mime, Web Wizards, Assumption Edge, G.K Quiz, Media Spotlight, The Logical Shuffle, and many more. One of the key attractions was THE APEX FAIR, where GNDEC's professional societies and clubs showcased technical games and creative activities for school participants.  Dr. Harpreet Kaur, Head of the Department of Applied Sciences, highlighted the importance of events like APEX in fostering students’ holistic growth, beyond just academics. She applauded the dedication and teamwork of the GNDEC GENCONIANS in making the event a grand success. The Guest of Honour, Mrs. Harmeet Kaur Waraich, Principal of Nankana Sahib Public School, Gill Road, lent grace and warmth to the event with her presence. Dr. Sehijpal Singh, Principal of GNDEC, marked the event as an invaluable opportunity for students to forge new friendships, engage with like-minded peers, and unearth hidden talents. Director Nankana Sahib Education Trust, S. Inderpal Singh, extended heartfelt gratitude to the APEX team and commended the efforts of Dr. Randhir Singh (Coordinator and Dr. Rajvir Kaur (Co-Coordinator, Causmic Club) for their seamless organization. The event was proudly supported by the Testing & Consultancy Cell, GNDEC Alumni, and Prabal TMT Rebars 550 as title sponsors, with Ronica India, Namdhari Steels Enterprises, Landmark Immigration, and Hoverrobotix India providing co-power support. Event partners included Coca-Cola, Verka, SK Trophy, Kabir Infra, LBPL, Hiyaav Salon, MAAC, Safe Engineering, Kangaro Group, and Asian Cranes.
     </p>
 
-# **GNDEC in News**
 
 ## GNDEC Annual Alumni Meet 2024: Creating Unforgettable Memories
 
@@ -122,20 +83,9 @@ ___ stood as the second runner-up, winning Rs. 5,000.
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/6or.jpeg)
 
 <p align=justify>
-Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted its Annual Alumni Meet, bringing together graduates from 1960 to the 2022 batch. Alumni from India, as well as from U.S., Canada, Australia, and the U.K., gathered to reconnect and contribute to the college’s development, making this a truly global event. The program began with a group of current students reciting shabad kirtan and setting a warm and nostalgic tone for the day.
-
-The Secretary of the GNDEC Alumni Association, Er. Arvinder Singh, and Er.G.S. Brar presented the annual report, detailing achievements and audit reports from the past year. In a special highlight, Mr. Harpreet Singh Cheema, a 1998 batch alumnus, and his wife were honored for becoming the first Sikh couple to conquer Mount Everest in 2024. 
-
-The event also marked the election of a new Executive Committee for 2024-2026, with Er. S.M.S. Sandhu, former Chief Engineer (1972 batch), being elected as the new President. A heartfelt tribute was extended to Mr. Gurbir Singh Sandhu, Olympian and Arjuna Awardee, for his invaluable contributions as the association’s former President.
-
-GNDEC Principal Dr. Sehijpal Singh expressed his gratitude to the alumni for their generous contributions. The 1973 batch and Tricity Genconians contributed to establish a state-of-the-art Computer Lab and a Computational Research Lab, while the NRI Alumni from the 1991 and 1992 batches funded the development of a modern classroom, collectively raising over 40 lakhs for these projects.
-
-Mr. Gurcharan Singh Grewal, Trustee of the Nankana Sahib Education Trust, commended the alumni’s dedication and pledged continued support for the college’s growth. Director of the Trust, S. Inderpal Singh, also lauded the efforts of former students for their impact on GNDEC.The gathering included several prominent alumni, including former Principals Dr. R.P. Singh, Dr. S.B. Singh, Dr. H.K. Grewal, Engineer Baldev Singh Sran (CMD, PSPCL), former Air Vice Marshal Varinder Sood, R.S. Sandhu and Chief Engineers and seniors officers  from various departments and boards, who all shared their cherished memories of GNDEC, creating an atmosphere filled with nostalgia and pride.
-
-The GNDEC Annual Alumni Meet 2024 was a day of reconnecting, recognition, and recommitment to the growth of this esteemed institution, leaving everyone with cherished memories to carry forward.
+Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted its Annual Alumni Meet, bringing together graduates from 1960 to the 2022 batch. Alumni from India, as well as from U.S., Canada, Australia, and the U.K., gathered to reconnect and contribute to the college’s development, making this a truly global event. The program began with a group of current students reciting shabad kirtan and setting a warm and nostalgic tone for the day.The Secretary of the GNDEC Alumni Association, Er. Arvinder Singh, and Er.G.S. Brar presented the annual report, detailing achievements and audit reports from the past year. In a special highlight, Mr. Harpreet Singh Cheema, a 1998 batch alumnus, and his wife were honored for becoming the first Sikh couple to conquer Mount Everest in 2024. The event also marked the election of a new Executive Committee for 2024-2026, with Er. S.M.S. Sandhu, former Chief Engineer (1972 batch), being elected as the new President. A heartfelt tribute was extended to Mr. Gurbir Singh Sandhu, Olympian and Arjuna Awardee, for his invaluable contributions as the association’s former President. GNDEC Principal Dr. Sehijpal Singh expressed his gratitude to the alumni for their generous contributions. The 1973 batch and Tricity Genconians contributed to establish a state-of-the-art Computer Lab and a Computational Research Lab, while the NRI Alumni from the 1991 and 1992 batches funded the development of a modern classroom, collectively raising over 40 lakhs for these projects. Mr. Gurcharan Singh Grewal, Trustee of the Nankana Sahib Education Trust, commended the alumni’s dedication and pledged continued support for the college’s growth. Director of the Trust, S. Inderpal Singh, also lauded the efforts of former students for their impact on GNDEC.The gathering included several prominent alumni, including former Principals Dr. R.P. Singh, Dr. S.B. Singh, Dr. H.K. Grewal, Engineer Baldev Singh Sran (CMD, PSPCL), former Air Vice Marshal Varinder Sood, R.S. Sandhu and Chief Engineers and seniors officers  from various departments and boards, who all shared their cherished memories of GNDEC, creating an atmosphere filled with nostalgia and pride. The GNDEC Annual Alumni Meet 2024 was a day of reconnecting, recognition, and recommitment to the growth of this esteemed institution, leaving everyone with cherished memories to carry forward.
 </p>
 
-# **GNDEC in News**
 
 ## Industry-Institute Meet Organized at GNDEC Ludhiana
 
@@ -146,14 +96,9 @@ The GNDEC Annual Alumni Meet 2024 was a day of reconnecting, recognition, and re
 
 <p align=justify>
 Guru Nanak Dev Engineering College (GNDEC), Ludhiana, conducted an Industry-Institute Meet, facilitated by the Department of Mechanical & Production Engineering and the Industrial Relations Cell. The event aimed to foster collaboration between academia and industry, ensuring students are equipped with industry-relevant skills to meet evolving market demands.
-
-Prominent industrial leaders attended the meet, including Mr. Jagbir Singh Sokhi (President, Sewing Machine Development Cell), Mr. Narinder Bhamra (President, Fasteners Manufacturers Association of India), Mr. Gurpreet Singh Kalhon (Senior Vice President, Auto Parts Manufacturers India), and Mr. Harsimerjit Singh (President, United Cycle Parts, Ludhiana). Representatives from leading firms, including Steel Shuttering Industries, Pioneer Cranes, Compac Technology, Barnala Engineers, and Arora Steels, also participated.
-
-Dr. Sehijpal Singh, Principal of GNDEC, said this meet marked another step toward strengthening ties between GNDEC and the industrial sector, promoting innovation, and fostering skill development among students. 
-Prof. J.S. Grewal extended a warm welcome to the participants. Dr. Jatinder Kapoor, Dean of the Industrial Relations Cell, highlighted the objectives of the event, emphasizing the importance of bridging the academia-industry gap. The program concluded with a vote of thanks by Dr. Harmeet Singh, Head of the Mechanical & Production Engineering Department.5
+Prominent industrial leaders attended the meet, including Mr. Jagbir Singh Sokhi (President, Sewing Machine Development Cell), Mr. Narinder Bhamra (President, Fasteners Manufacturers Association of India), Mr. Gurpreet Singh Kalhon (Senior Vice President, Auto Parts Manufacturers India), and Mr. Harsimerjit Singh (President, United Cycle Parts, Ludhiana). Representatives from leading firms, including Steel Shuttering Industries, Pioneer Cranes, Compac Technology, Barnala Engineers, and Arora Steels, also participated. Dr. Sehijpal Singh, Principal of GNDEC, said this meet marked another step toward strengthening ties between GNDEC and the industrial sector, promoting innovation, and fostering skill development among students. Prof. J.S. Grewal extended a warm welcome to the participants. Dr. Jatinder Kapoor, Dean of the Industrial Relations Cell, highlighted the objectives of the event, emphasizing the importance of bridging the academia-industry gap. The program concluded with a vote of thanks by Dr. Harmeet Singh, Head of the Mechanical & Production Engineering Department.5
 </p>
 
- # **GNDEC in News**
 
 ## GNDEC Celebrates Golden Jubilee of 1974 Batch
 
@@ -163,17 +108,10 @@ Prof. J.S. Grewal extended a warm welcome to the participants. Dr. Jatinder Kapo
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/8or.jpeg)
 
 <p align=justify>
-Guru Nanak Dev Engineering College (GNDEC), Ludhiana, recently commemorated the Golden Jubilee of its 1974 batch in a grand celebration held on campus. The event witnessed the enthusiastic participation of over 60 alumni, accompanied by their families, who travelled from across India and countries like Canada, Australia, and the USA to reconnect and celebrate this milestone. The alumni meet started with ardass at college Gurdwara sahib.
-On this special occasion, a souvenir dedicated to the 1974 batch was released, showcasing the profiles and achievements of the batch. The management members and Principal of the college honoured all the Genconians with mementos.
-Trustees of Nankana Sahib Education Trust Maheshinder Singh Grewal, Gursharan Singh Grewal and Director, of Trust Inderpal Singh expressed their heartfelt congratulations and gratitude to the 1974 batch for their generous contributions. They also reaffirmed that they will support for the continued growth and continuous development of GNDEC. 
-Principal Sehijpal Singh said that 1974 batch support is instrumental in strengthening the institution’s foundation and encouraging new avenues for growth and innovation. The 1974 batch was lauded for their significant contribution toward establishing a Center for Experiential Learning, a visionary initiative aimed at fostering innovation and supporting new projects and hands-on practice for the budding engineers. Their financial assistance of 20 lakhs has set an inspiring example of alumni commitment to their alma mater. 
-The tireless efforts of the organizing committee, which included the former CMD of Haryana Electricity Board Er. Arun Verma, the Chief Engineer of PSPCL Er P.S Gill, leading industrialists Er. Ajit Saini and Er. G.S Bhalla, and a team of faculty and students of GNDEC, were highly appreciated.
-This celebration not only marked 50 years of the 1974 batch's legacy but also reinforced the strong bond between GNDEC and its alumni community.
+Guru Nanak Dev Engineering College (GNDEC), Ludhiana, recently commemorated the Golden Jubilee of its 1974 batch in a grand celebration held on campus. The event witnessed the enthusiastic participation of over 60 alumni, accompanied by their families, who travelled from across India and countries like Canada, Australia, and the USA to reconnect and celebrate this milestone. The alumni meet started with ardass at college Gurdwara sahib. On this special occasion, a souvenir dedicated to the 1974 batch was released, showcasing the profiles and achievements of the batch. The management members and Principal of the college honoured all the Genconians with mementos. Trustees of Nankana Sahib Education Trust Maheshinder Singh Grewal, Gursharan Singh Grewal and Director, of Trust Inderpal Singh expressed their heartfelt congratulations and gratitude to the 1974 batch for their generous contributions. They also reaffirmed that they will support for the continued growth and continuous development of GNDEC. Principal Sehijpal Singh said that 1974 batch support is instrumental in strengthening the institution’s foundation and encouraging new avenues for growth and innovation. The 1974 batch was lauded for their significant contribution toward establishing a Center for Experiential Learning, a visionary initiative aimed at fostering innovation and supporting new projects and hands-on practice for the budding engineers. Their financial assistance of 20 lakhs has set an inspiring example of alumni commitment to their alma mater. The tireless efforts of the organizing committee, which included the former CMD of Haryana Electricity Board Er. Arun Verma, the Chief Engineer of PSPCL Er P.S Gill, leading industrialists Er. Ajit Saini and Er. G.S Bhalla, and a team of faculty and students of GNDEC, were highly appreciated. This celebration not only marked 50 years of the 1974 batch's legacy but also reinforced the strong bond between GNDEC and its alumni community.
 the organizing committee, which included the former CMD of the Haryana Electricity Board Er. Arun Verma, the Chief Engineer of PSPCL Er P.S Gill, leading industrialists Er. Ajit Saini and Er. G.S Bhalla, and a team of faculty and students of GNDEC.
             </p>
 
-            
-# **GNDEC in News**
 
 ## GNDEC students win Smart India Hackathon 2024
 

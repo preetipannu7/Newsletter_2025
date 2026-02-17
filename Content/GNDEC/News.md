@@ -22,7 +22,7 @@ Guru Nanak Dev Engineering College, Gill Park Ludhiana, recently hosted a three-
 Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nasha Mukt Abhiyaan today in the campus. As per direction from Ministry of Social Justice and Empowerment, Government of India more than 650 students and eleven faculty members took the pledge against drug abuse. Dr. Arvind Dhingra, Chairman, Technical Activity Committee administered the pledge. Dr. Parminder Singh, Dean (Student Welfare) introduced the students to anti-ragging day. He said that as per UGC guidelines, anti-ragging week would be observed from August 12th to 18th, 2024. A host of activities like poster making, reel making, social media contests shall be organised. Today’s speaker Dr. Sarabjeet Singh Renuka, Professor (Journalism), PAU Ludhiana addressed the students on this occasion. In his inimitable style in very simple words  he highlighted as to how ragging was an anti-social activity. He explained in details about peer learning and how it impacts a person’s personality. He detailed about the process of “learn how to learn”, citing extensively from Gurbani, he advocated choosing peers carefully. Dr. Sehijpal Singh, Principal, GNDEC said that college campus is a ragging free campus. He emphasized on the importance of peer learning and also informed that all helpline numbers for anti-ragging committees have been displayed at various places inside campus. S. Inderpal Singh Director, Nankana Sahib Education Trust, exhorted students to take today’s learnings seriously and apply these throughout the life.
 </p>
 
-# GNDEC Faculty Honored in Stanford University's Top 2% Scientists List
+# <h1 style="text-align: center;"> **  GNDEC Faculty Honored in Stanford University's Top 2% Scientists List ** </h1> 
 
 ####### |🕒 Published on Sep 21, 2024
 
@@ -33,8 +33,7 @@ Guru Nanak Dev Engineering College, Ludhiana organised Anti-Ragging Day and Nash
 Guru Nanak Dev Engineering College (GNDEC) is proud to announce that two of its esteemed faculty members have been recognized in Stanford University's prestigious list of the World's Top 2% Scientists. Dr. Raman Kumar Sehgal from the Mechanical and Production Engineering department has received this honor for the third consecutive year, while Dr. Sita Rani from Computer Science and Engineering has been acknowledged for 2024. Their relentless commitment to research and innovation has elevated the standards of their respective fields and significantly contributed to the global scientific landscape. Dr. Sehijpal Singh, Principal of GNDEC, expressed that this achievement is expected to inspire and energize students, faculty, and researchers alike, further solidifying the college’s standing as a premier institution for research and academic excellence. He noted, "Their inclusion in such a prestigious list not only highlights their personal achievements but also showcases the college's strong academic and research ethos.
 </p>
 
-# IKGPTU Inter-College Cycling Competition 2024 Hosted by GNDEC
-
+# <h1 style="text-align: center;"> ** IKGPTU Inter-College Cycling Competition 2024 Hosted by GNDEC ** </h1> 
 ####### |🕒 Published on October 1, 2024
 
 ![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/6896fc543c809c9f5274e64338c6c7333854cd3e/Content/GNDEC/Images/4.jpeg)
@@ -44,7 +43,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKG
     </p>
 
 
-# GNDEC Hosts Spectacular GNE'S APEX 2024: A Showcase of Innovation and Talent
+# <h1 style="text-align: center;"> ** GNDEC Hosts Spectacular GNE'S APEX 2024: A Showcase of Innovation and Talent ** </h1> 
 
 ####### |🕒 Published on February 1, 2024
 
@@ -56,7 +55,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana,  hosted the IKG
     </p>
 
 
-# GNDEC Annual Alumni Meet 2024: Creating Unforgettable Memories
+# <h1 style="text-align: center;"> ** GNDEC Annual Alumni Meet 2024: Creating Unforgettable Memories** </h1> 
 
 ####### |🕒 Published on November 20,2023
 
@@ -69,7 +68,7 @@ Guru Nanak Dev Engineering College (GNDEC), Gill Park, Ludhiana, recently hosted
 </p>
 
 
-# Industry-Institute Meet Organized at GNDEC Ludhiana
+# <h1 style="text-align: center;"> ** Industry-Institute Meet Organized at GNDEC Ludhiana** </h1> 
 
 ####### |🕒 Published on November 18,2023
 
@@ -82,7 +81,7 @@ Prominent industrial leaders attended the meet, including Mr. Jagbir Singh Sokhi
 </p>
 
 
-# GNDEC Celebrates Golden Jubilee of 1974 Batch
+# <h1 style="text-align: center;"> ** GNDEC Celebrates Golden Jubilee of 1974 Batch ** </h1> 
 
 ####### |🕒 Published on October 28, 2023
 
@@ -95,7 +94,7 @@ Guru Nanak Dev Engineering College (GNDEC), Ludhiana, recently commemorated the 
 
             
 
-# GNDEC students win Smart India Hackathon 2024
+# <h1 style="text-align: center;"> ** GNDEC students win Smart India Hackathon 2024 ** </h1> 
 
 ####### |🕒 Published on October 21,2023
 
@@ -109,7 +108,7 @@ Guru Nanak Dev Engineering College (GNDEC) Ludhiana team Codex comprising of Che
 </p>
 
 
-# Silver jubilee Reunion of GNDEC 1994-1998 Batch celebrated
+# <h1 style="text-align: center;"> ** Silver jubilee Reunion of GNDEC 1994-1998 Batch celebrated ** </h1> 
 
 ####### |🕒 Published on October 13, 2023
 
@@ -121,7 +120,7 @@ Guru Nanak Dev Engineering College (GNDEC) Ludhiana team Codex comprising of Che
 </p>
 
 
-# TATA steel ties up with GNDEC for developing modern lab at Campus.
+# <h1 style="text-align: center;"> ** TATA steel ties up with GNDEC for developing modern lab at Campus ** </h1> 
 
 ####### |🕒 Published on JUNE 26,2023
 
@@ -134,7 +133,7 @@ Guru Nanak Dev Engineering College (GNDEC) and Tata Steel have signed a Memorand
 </p>
 
 
-# Entrepreneurship Day celebrated at GNDEC
+# <h1 style="text-align: center;"> **  Entrepreneurship Day celebrated at GNDEC ** </h1> 
 
 ####### |🕒 Published on June 6,2023
 
@@ -148,7 +147,7 @@ The Entrepreneurship day was celebrated with full zeal and enthusiasm by IIC- Ec
 
 
 
-# GNDEC conducts panel discussion on Diminishing Trend of STEM Courses
+# <h1 style="text-align: center;"> ** GNDEC conducts panel discussion on Diminishing Trend of STEM Courses ** </h1> 
 
 ####### |🕒 Published on May 28,2023
 
@@ -160,7 +159,7 @@ Guru Nanak Dev  Engineering College (GNDEC), Ludhiana, hosted a thought-provokin
 </p>
 
 
-# GNDEC Team Gensonic Excels at BAJA 2025
+# <h1 style="text-align: center;"> **GNDEC Team Gensonic Excels at BAJA 2025 ** </h1> 
 
 ####### |🕒 Published on April 9,2023
 
@@ -173,7 +172,7 @@ Guru Nanak Dev Engineering College (GNDEC) proudly announces the outstanding per
 
 
 
-# The 64th annual athletic meet of GNDEC concluded with wonderful memories.
+# <h1 style="text-align: center;"> ** The 64th annual athletic meet of GNDEC concluded with wonderful memories ** </h1> 
 
 ####### |🕒 Published on March 22, 2023
 

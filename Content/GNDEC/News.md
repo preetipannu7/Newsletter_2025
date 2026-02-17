@@ -205,6 +205,6 @@ The second day of the athletic meet at Guru Nanak Dev Engineering College began 
 
 **APRO: Dr. Preeti Pannu**
 
-**Student's Executive Members: Gurpuneet Singh(URN:2339611, ECE Branch) 
+**Student's Executive Member: Gurpuneet Singh(URN:2339611, ECE Branch) **
 
 

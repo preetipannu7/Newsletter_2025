@@ -201,7 +201,7 @@ The second day of the athletic meet at Guru Nanak Dev Engineering College began 
 
 
 
-**PRO: Dr. Satjot Singh Dhillon**   
+**PRO & Office Incharge Workshop: Dr. Satjot Singh Dhillon**   
 
 **APRO: Dr. Preeti Pannu**
 

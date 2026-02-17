@@ -4,9 +4,9 @@
 
 ####### |🕒 Published on June 25, 2024
 
-![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1.jpeg) ![HSR]
+![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1.jpeg) 
 
-(https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1or.jpeg)
+![HSR](https://github.com/gpsnoor05/Newsletter_2025/blob/df9eda23ac9faa031caadb8770b8cda01c6ce7a5/Content/GNDEC/Images/1or.jpeg)
 
 
 <p align=justify>

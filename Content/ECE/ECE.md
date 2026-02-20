@@ -1,4 +1,3 @@
-̨̨
 # Department of Electronics and Communication  Engineering
 
 
@@ -9,7 +8,7 @@
 
 <div align = "justify">The Department of Electronics and Communication Engineering, established in 1981, is one of the most dynamic departments of Guru Nanak Dev Engineering College. It was the first major diversification initiative by the college, 25 years after its establishment. The department is currently running Bachelors and Masters of Technology courses in Electronics and Communication Engineering and has around 10 scholars enrolled for doctorate in areas like Antenna Design, VLSI, Optical communication etc. Ever since its inception, the department has been the hub of academic excellence through some great teachers who have laid a sound foundation as well as the cream of students of the region, who have spread their wings all over the globe. The alumni of the department are not only excelling in India but also in the Silicon Valley and other hubs of Electronics Technology. They are at the forefront of the Telecom revolution of the last 20 years and manning pivotal positions in Telecom operators in India, South East Asia, Pacific region and Africa. In the end, I can say that we incorporate good technical skills and knowledge to each individual associated with us.</div>
 
-Dr. Narwant Singh Grewal  
+Dr. Munish Rattan   
 (Head of Department)
 
 
@@ -23,7 +22,7 @@ Dr. Narwant Singh Grewal
 
 ### The Departmental Library
 
-![library](Images/Lib.jpeg)
+![library](Images/MR.jpeg)
 
 -----------------------------------------
 
@@ -124,64 +123,75 @@ Dr. Narwant Singh Grewal
 
 ## Publications  (Journals)
 
--  Harleen Kaur, **Narwant Singh Grewal**, "Performance enhancement of visible light communication (VLC) system incorporating WMZCC‐OCDMA codes and PDM‐QPSK‐DSP data encoding." International Journal of Communication Systems 36.1 (2023): e5355.
+- **Narwant Singh Grewal**, Jaspreet Kaur and **Navneet Kaur**, "A Symmetrical 32 × 1 and 16 × 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications (Springer).
 
-- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding." Optical and Quantum Electronics 55.1 (2023): 70.
+- Puran Singh, **Munish Rattan, Narwant Singh Grewal** and Geetika Aggarwal, "Distributed Feature Matching for Robust Object Localization in Robotic Manipulation." IEEE Access.
 
-- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On Comparison of 3D-Printed ABS and PVDF-Based Sensors for Body-Centric Utility." Arabian Journal for Science and Engineering 48.9 (2023): 12645-12655.
+- Ramneet Kaur Sahota, **Preeti Pannu, Gurjot Kaur Walia, Shivmanmeet Singh**, "Investigation of MDM-WDM ISOWC System Using Hybrid Laguerre Gaussian (LG)-Hermite Gaussian (HG) Intensity Profiles." Journal of Optics.
 
-- **Harminder Kaur, Baljeet Kaur**, Ridheyjot Kaur, "A Review on OTDM Transmission." Int. J. Eng. Res. Technol 12 (2023).
+- Rajan Vohra, Kunwar Partap Singh, Jupinder Kaur, Vishal Jagota, Jyoti Bhola, "Electronic Properties of ZnO Nanowires: A First-Principles Analysis Using Two-Probe Methodology." International Journal of Nanoelectronics and Materials (IJNeaM).
 
-- **Chahat Jain**, Balwinder S. dhaliwal, Rupinder Singh, Suman Pattnaik, "On 3D Printed Flexible and Wearable Sensors from Primary Recycled PVDF." National Academy Science Letters 47.2 (2024): 157-160.
+- Daljit Singh, "Immune Inspired Cyber Defence – An Intrusion Detection Scheme." Journal of Emerging Technologies and Innovative Research.
 
-- Harleen Kaur, **Narwant Singh Grewal**, "Security enhancement of an integrated mode division multiplexed VLC system using two-dimensional WMZCC codes." Journal of Optics 53.1 (2024): 622-634.
+- Daljit Singh, "Harnessing Immune Mechanisms for Cyber Security – An Intrusion Detection Approach." International Journal of Scientific Development and Research.
 
-- **Shivmanmeet Singh, Narwant Singh Grewal, Baljeet Kaur**, "Analysis of hybrid PDM-4QAM-OFDM for inter-satellite/mechatronic telecommunication using FSO system." Opto-Electronics Review 31.3 (2023).
+- **Harminder Kaur**, Baljeet Kaur, Manjit Singh Bhamrah, "Flat Top Optical Multicarrier Generation for Ultra Dense Asymmetrical Radio over Fiber System." Optoelectronics and Advanced Materials – Rapid Communications.
 
-- Tarandeep Singh, Aseem Verma, **Navneet Kaur**, Manjeet Singh, "Enhancing conservation seeding techniques: a vibration analysis of spatially modified no-till drill in combine harvested rice fields." Proceedings of the Indian National Science Academy 89.4 (2023): 914-923.
+- Harmandeep Kaur, **Harleen Kaur, Gurleen Kaur, Shivmanmeet Singh**, "Inclusion of Digital Electronics in Computer Applications: Architectures, Advancements, and Integration." International Journal of Research and Analytical Reviews (IJRAR).
 
-- Pooja Sharma, **Navneet Kaur**, Gurpurneet Kaur, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length." Journal Punjab Academy of Sciences 23 (2023): 296-301.
+**Gurleen Kaur**, "A Comprehensive Review of Deep Learning Techniques and Its Applications." International Journal of Creative Research Thoughts (IJCRT).
 
-- **Harminder Kaur, Baljeet Kaur**, Manjit Singh Bhamrah, "Flat top optical multicarrier generation for ultra dense asymmetrical radio over fiber system." Optoelectronics and Advanced Materials-Rapid Communications 18.May-June 2024 (2024): 263-274.
+**Gurleen Kaur**, "Computer Applications in Electronics: Integration, Advancements, and Future Prospects." International Journal of Research and Analytical Reviews (IJRAR).
 
-- **Preeti Pannu**, "Highly compact UWB-MIMO antenna with sharp multi-stop band characteristics." EURASIP Journal on Wireless Communications and Networking 2024.1 (2024): 48.
+**Gurleen Kaur**, "Blockchain for Internet of Things: A Survey." International Journal of Research and Analytical Reviews (IJRAR).
 
-- Jaspreet Kaur, **Narwant Singh Grewal, Navneet Kaur**, "A Symmetrical 32× 1 and 16× 1 Elements Antenna Array Failure Correction with Nulls Using Brain Storm Optimization." Wireless Personal Communications 136.4 (2024): 2405-2418.
+**Gurleen Kaur**, "E-Waste Management System in Smart Cities." International Journal of Research and Analytical Reviews (IJRAR).
 
-- **Shivmanmeet Singh**, "Intelligent Development in Healthcare With the Internet (chapter)", Computational Intelligence and Blockchain in Biomedical and Health Informatics (Springer 2024).
+**Gurleen Kaur**, "Smart Transport System." International Journal of Creative Research Thoughts (IJCRT).
 
+**Gurleen Kaur**, "Data Security and Privacy." International Journal of Creative Research Thoughts (IJCRT).
+
+**Gurleen Kaur**, "Impact of AI on Business and Societies in Smart Cities." International Journal of Creative Research Thoughts (IJCRT).
+
+Karthickmanoj, T. Sasilatha, D. Lakshmi, Vishal Goyal, Talal Taha Ali, Ajay Nautiyal, Kamal Kant Sharma, Raman Kumar, **Shivmanmeet Singh**, "Revolutionizing Agricultural Productivity with Automated Early Leaf Disease Detection System for Smart Agriculture Applications Using IoT Platform." Environment, Development and Sustainability.
+
+**Shivmanmeet Singh**, Harmandeep Kaur, **Preeti Pannu**, "Performance Analysis of QAM and QPSK for FSOWC System Using Machine Learning." Journal of Optics.
+
+**Gurpurneet Kaur** et Al., "Allocation of Stocks in the Portfolio Using Puma Optimizer." International Journal of Creative Research Thoughts.
+
+Ram Devi, **Gurpurneet Kaur, Ameeta Seehra, Munish Rattan**, Geetika Aggarwal, Michael Short, "Low-Power Energy-Efficient Hetero-Dielectric Gate-All-Around MOSFETs: Enablers for Sustainable Smart City Technology." Energies.
+
+Pankaj Palta, **Munish Rattan**, "Effects of Different Substrates for Wearable Patch Antennas at 2.45 GHz." Innovations in Computing.
+
+**Navneet Kaur, Chahat Jain, Munish Rattan**, "Optimized Design of Dual-K Spacer FinFET Using Bio-Inspired Artificial Hummingbird Algorithm at 10 nm Gate Length." National Academy Science Letters (Springer India).
 
 ## Publications  (Conferences)
 
-- Mansi, **Munish Rattan, Gurjot Kaur Walia**, "Performance Analysis Of GAAFET Device Using HfO2 and SiO2", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
-  
-- **Shivmanmeet Singh, Narwant Singh Grewal and Baljeet Kaur**, "Performance Evaluation of Inter-satellite Optical Wireless System (IsOWC) on nongeostaionary orbit using PDM- 256 QAM with DSP", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+- Chanpreet Kaur, **Harminder Kaur** "Green Computing – A Review", International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems (ICSDCOIS-2025).
 
-- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "Opical Muli-carrier Generation Using Cascaded Three Stage Modulators", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+**Gurjot Kaur Walia, Navneet Kaur, Chahat Jain** "Bridging Tradition and Technology: Integrating Indian Knowledge Systems with Artificial Intelligence", International Conference on Indian Knowledge System: From Glorious Past to Bright Future.
 
-- **Harminder Kaur, Baljeet Kaur**, Manjeet Singh Bhamrah, "100 GHz Radio Signal Over 160 Gbps-160 km ROF link Using Polarization Division Multiplexing based 256-QAM and Matched Filter", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+**Narwant Singh Grewal** "Frequency Reconfigurable Antenna Design Using PSO", International Conference on Next-Generation Communication and Computing (NGCCOM-2024).
 
-- **Navneet Kaur, Gurpurneet Kaur**, Pooja Sharma, "Performance Assessment of III-V Heterojunction FinFETs at 14nm Gate Length", 4th International Conference on Innovative Trends in Electronics Engineering(ICITEE 2023).
+Ramneet Kaur, **Preeti Pannu, Gurjot Kaur** "Performance Analysis of Radio over FSO for Advanced Modulation Formats", 6th International Conference on Recent Innovations in Science & Technology.
 
-- **Narwant Singh Grewal, Preeti Pannu, Gurpurneet Kaur**, "A Linear 16x1 and 42x1 elements antenna array failure correction using brain storm optimization algorithm", 11th International Conference on Advancement in Engineering and Technology(ICAET 2023).
+**Preeti Pannu, Narwant Singh Grewal** and **Gurpurneet Kaur** "Design of Dually Notched Compact 4-Port UWB MIMO Antenna", 8th International Conference on Micro-Electronics and Telecommunication Engineering.
 
-- **Preeti Pannu**, "Breakthrough trends of Nanotechnology in the Biomedical Industry", National Conference on Intelligent Electronic Systems and Applications (NCIESA-2024).
+**Kunwar Partap Singh**, Rajan Vohra, "Comparative Analysis of Electrical Conductance through Guanine and Thymine Based Molecular Devices", 6th International Conference on Intelligent Circuits and Systems (ICICS-2024).
 
-- **Harleen Kaur**, "Parameter Estimation in Design of 5.2GHz Rectangular U Slot Microstrip Patch Antenna with ANFIS", 5th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2024).
+Arnav Gautam, **Harleen Kaur**, Piyush, "Real Time Weed Detection using YOLOv8: A Lightweight Vision System for Smart Farming", 6th International Conference on Data Science and Applications.
 
-- Harleen Kaur, **Shivmanmeet Singh, Preeti Pannu**, "Unleashing the power of data in data science", 6th International Conference on Recent Innovations in Science & Technology(RIST 2024).
+**Gurpurneet Kaur**, Ramdevi, **Munish Rattan, Narwant Singh, Preeti Pannu** G. Aggarwal, G.P.K. Sohi, "Tunable HfxTi1-xO2 Dielectrics for Low-Power and High-Performance GAA Nanowire MO", Nanoelectronics and VLSI Design.
 
-- **Gurjot Kaur Walia, Navneet Kaur, Chahat Jain**, "Image Demosaicing using Naïve Bayes Classifier for Improved Image Metrics", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
+**Gurleen Kaur, Gurpurneet Kaur**, Baljeet Kaur, "Emerging Techniques in Underwater Communication: A Comprehensive Review", International Conference on Electronics, AI and Computing (EAIC-2025).
 
-- Ramneet Kaur Sahota, **Preeti Pannu, Gurjot Kaur Walia**, "Performance Analysis of Radio Over FSO for Advanced Modulation Formats", 6th International Conference on Recent Innovations in Science and Technology(RIST-2024).
+**Preeti Pannu, Narwant Singh Grewal** and **Gurpurneet Kaur**, "Design of Dually Notched Compact 4-Port UWB MIMO Antenna", 8th International Conference on Micro-Electronics and Telecommunication Engineering.
 
+**Preeti Pannu**, Manpreet Kaur, **Narwant Singh Grewal**, "Frequency Reconfigurable Antenna Design Using PSO", International Conference on Next-Generation Communication and Computing (NGCCOM-2024).
 
-## Publications  (Books)
+Amandeep Kaur Kang, Shubham Sharma, **Gurjot Kaur Walia**, Manisha, "Application of Artificial Intelligence in Strategic Restaurant Marketing: A Review", ISTE National Annual Convention and Yuva Kaushal Utsav 2025.
 
-- **Shivmanmeet Singh**, "Quantum Hits: Hardware, Information, Technology & Simulation", Amazon kindle (Aug 2023).
-
-- **Shivmanmeet Singh, Preeti Pannu**, "Information Management and Data Analytics", Amazon kindle (Oct 2023).
-
+**Gurjot Kaur Walia, Navneet Kaur, Chahat Jain** "Bridging Tradition and Technology: Integrating Indian Knowledge", International Conference on Indian Knowledge System: From Glorious Past to Bright Future.
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
@@ -227,23 +237,37 @@ Dr. Narwant Singh Grewal
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-|   1   |	Baljeet Kaur	|  Big Data and Analytics |	1 Week |	03-04-2023 to 07-04-2023  |	Dr B R Ambedkar National Institute of Technology Jalandhar |
-|   2   |	Shivmanmeet Singh	|  Performance Evaluation of Inter-satellite Optical Wireless System |	1 Day |	27-04-2023  |	Punjabi University Patiala  |
-|   3   | 	Simranjit Kaur, Dr. Navneet Kaur, Dr. Gurjot Kaur Walia  |	  FDP on Technology Enabled Teaching-Learning  | 1 week   |	28-04-2023 |	NITTTR, Chandigarh |
-|   4   |	Simranjit Kaur |	Workshop on "Antenna fabrication using 3D printing |	1 Day | 29-04-2023	  |	NITTTR, Chandigarh |
-|   5   | Simranjit Kaur |	Workshop on "Translating academics research into industry applications" |	1 Day  |	30-04-2023 | Start up farms, IT park, sec-13, Chandigarh  |
-|   6   | Navneet Kaur |	Webinar on Connecting Curriculum to Careers: Mastering for Credit Online Learning | 1 Day | 03-05-2023 | India Didactics Association and Coursera |
-|   7   | Preeti Pannu, Chahat Jain |	Two days workshop on 3D Printing: A future generation Technology	| 2 Days  | 02-05-2023 to 03-05-2023 | GNDEC, Ludhiana |
-|   8   | Simranjit Kaur, Dr. Gurjot Kaur Walia |	Workshop on "Artificial intelligence and punjabi language: Recent trends and challenges"	| 3 Days  | 06-06-2024 to 08-06-2024 | AICTE-VAANI , GNDEC, Ludhiana |
-|   9   | Navneet Kaur |	Foundations: Data, Data, Everywhere	| 4 weeks  | 06-2023 | Coursera |
-|   10   | Preeti Pannu |	One week short term course on blended learning and flipped classroom	| 1 week  | 16-10-2023 to 20-10-2023 | NITTTR, Chandigarh |
-|   11  | Preeti Pannu, Dr. Gurjot Kaur Walia |	Workshop on OBE under IQAC	| 1 Day  | 16-11-2023 | GNDEC, Ludhiana|
-|   12  | Preeti Pannu |	Workshop on Translating academics research into industry applications	| 1 Day  | 13-12-2023 | IT park, sector 13, Chandigarh|
-|   13  | Simranjit Kaur, Dr. Gurjot Kaur Walia |	STP on "branding of HEIs for Institutional Excellence"	| 1 week  | 11-12-2023 to 15-12-2023 | NITTTR, Chandigarh |
-|   14  | Gurpurneet Kaur |	NPTEL course on Microprocessors and Microcontrollers	| 6 months | Jan - June 2023| NPTEL |
-|   15  | Navneet Kaur |	Building Advanced Data Analytics Applications with Cloud | 5 Days | 08-01-2024 to 12-01-2024 | AICTE and Edunet Foundation |
-|   16  | Preeti Pannu |	Attended knimbus offline training by kansihka Jindal Knimbus india	| 1 Day  | 21-03-2024 | ME Seminar hall, GNDEC, Ludhiana|
-
+| 1 | Preeti Pannu | One week FDP on IOT and Ubiquitous Computing for Emerging Technical Applications (ISTE approved) | 1 week | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic, Staff Development Committee |
+| 2 | Preeti Pannu | One week STC on Microstrip Patch Antenna Design Techniques and Tools | 1 week | 16-09-2024 to 20-09-2024 | NITTTR, Chandigarh |
+| 3 | Preeti Pannu | Two week FDP on Reconfigurable FPGA and Internet of Things | 2 weeks | 21-04-2025 to 02-05-2025 | E&ICT Academy PDPM IIITDM Jabalpur |
+| 4 | Preeti Pannu | One day workshop on SWAYAM NPTEL | 1 Day | 17-04-2025 | IIT Kanpur at GNDEC Ludhiana |
+| 5 | Preeti Pannu | Demonstration on how to access IEEE and EBSCO journals in Digital Library | 1 Day | 12-05-2025 | GNDEC Ludhiana |
+| 6 | Preeti Pannu | Webinar on "Truth in AI Systems" by Prof. Naveen Kumar | 1 Day | 30-05-2025 | I.K. Gujral Punjab Technical University, Office of Dean (R&D) |
+| 7 | Harminder Kaur D/o S. Avtar Singh | IOT and Ubiquitous Computing for Emerging Technical Applications | 5 Days | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic College (ISTE Approved), New Delhi |
+| 8 | Harminder Kaur D/o S. Avtar Singh | Reconfigurable FPGA and Internet of Things | 2 Weeks | 21-04-2025 to 02-05-2025 | Electronics and ICT Academy (Phase-II), PDPM IIITDM Jabalpur |
+| 9 | Narwant Singh Grewal | Python for Data Sciences (NPTEL) | 4 Weeks | July-August 2024 | IIT Madras |
+| 10 | Gurjot Kaur Walia | UGC Zonal Conference on "Implementation on NEP 2020" | 1 Day | 02-12-2024 | DAVV, Indore |
+| 11 | Gurjot Kaur Walia | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
+| 12 | Gurjot Kaur Walia | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
+| 13 | Navneet Kaur | Workshop on “Photonic Sensors for Biosensing Applications” | 3 Days | 17-10-2024 to 19-10-2024 | ISM, Dhanbad |
+| 14 | Navneet Kaur | UGC Zonal Conference on "Implementation on NEP 2020" | 1 Day | 02-12-2024 | DAVV, Indore |
+| 15 | Navneet Kaur | AICTE ATAL FDP on "Future Tech Revealed: Semiconductors, Quantum Computing, and Data Storage Insights" | 1 Week | 20-01-2025 to 25-01-2025 | COEP Technological University |
+| 16 | Navneet Kaur | AICTE ATAL FDP on “Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025)” | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
+| 17 | Navneet Kaur | International Conference on “Indian Knowledge System: From Glorious Past to Bright Future" | 2 Days | 04-04-2025 to 05-04-2025 | Maharaja Agrasen University, IKGPTU & Baba Mastnath University |
+| 18 | Navneet Kaur | One day workshop "ISRO Academia Connect for Northern Region" | 1 Day | 08-04-2025 | NIT Kurukshetra |
+| 19 | Gurpurneet Kaur | ISTE Approved One Week Online FDP on IOT and Ubiquitous Computing for Emerging Technical Applications | 1 Week | 26-08-2024 to 30-08-2024 | Vidyalankar Polytechnic College, Mumbai |
+| 20 | Gurpurneet Kaur | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
+| 21 | Kuldeepak Singh | AI for Engineering Applications | 1 Week | 04-11-2024 to 08-11-2024 | NITTTR, Chandigarh |
+| 22 | Kuldeepak Singh | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
+| 23 | Harminder Kaur D/o Avtar Singh | International Conference on Sustainable Developments in Computational Optimization and Intelligent Systems | 2 Days | 24-04-2025 to 25-04-2025 | BGIET, Sangrur |
+| 24 | Daljit Singh | AI for Engineering Applications | 1 Week | 04-11-2024 to 08-11-2024 | NITTTR, Chandigarh |
+| 25 | Daljit Singh | Drone Technologies, Opportunities and Regulations | 1 Week | 18-11-2024 to 22-11-2024 | NITTTR, Chandigarh |
+| 26 | Daljit Singh | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
+| 27 | Simranjit Kaur | STC on "Microstrip Patch Antenna Design Techniques and Tools" | 1 Week | 16-09-2024 to 20-09-2024 | NITTTR, Chandigarh |
+| 28 | Simranjit Kaur | ATAL FDP on "Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce" | 1 Week | 16-12-2024 to 21-12-2024 | GNDEC Ludhiana |
+| 29 | Simranjit Kaur | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 Week | 10-02-2025 to 15-02-2025 | MM Engineering College, Mullana-Ambala |
+| 30 | Simranjit Kaur | Workshop on "IP Blueprint: Navigating Intellectual Property" | 1 Day | 15-04-2025 | Sponsored by Punjab State Council, GNDEC Ludhiana |
+| 31 | Harleen Kaur | FDP on Computer Vision in Autonomous Driving | 1 Week | 24-02-2025 to 28-02-2025 | VIT, Chennai |
 
 ## Expert Lecture delivered
 
